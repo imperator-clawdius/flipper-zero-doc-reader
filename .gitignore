@@ -1,0 +1,17 @@
+# ufbt build artifacts
+.ufbt/
+dist/
+build/
+*.fap
+*.fap.*
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE / build metadata
+.vscode/
